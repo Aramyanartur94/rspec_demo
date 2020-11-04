@@ -1,5 +1,5 @@
 class Car
-  MILES_PER_GALLON = 20
+  MILES_PER_GALLON = 20 # расход топлива
 
   attr_reader :fuel
 
